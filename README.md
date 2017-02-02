@@ -1,2 +1,9 @@
-# decompiler
-decompiles .beam files to Erlang
+decompiler
+=====
+
+An OTP library
+
+Build
+-----
+
+    $ rebar3 compile
